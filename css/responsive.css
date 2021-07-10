@@ -5,16 +5,25 @@
 	.section-1 {
 		flex-direction: column;
 		align-items: center;
+		justify-content: space-around;
 	}
-	
-@media (max-width: 800px) {
+	.wave-button {
+		margin: 50px auto;
+	}
+	.right-block {
+		margin: 70px auto;
+	}
+}
+@media (max-width: 900px) {
 	.navigation {
-			display: none;
+		display: none;
 		}
-		.burger {
-			display: block;
+	.burger {
+		display: block;
 		}
-
+	.sec-2 {
+		width: 48%;
+	}
 }
 @media (max-width: 600px) {
 	
