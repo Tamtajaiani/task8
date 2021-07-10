@@ -56,23 +56,26 @@ header {
 	color: #534D4D;
 	font-family: 'Lato-bold';
 	line-height: 1.6;
+	max-width: 630px;
+	width: 100%;
 }
 .minor-title {
 	font-size: 22px;
 	color: #534D4D;
 	margin-top: 40px;
 	font-family: 'Roboto-regular';
+	max-width: 600px;
+	width: 100%;
 }
 .wave-button {
 	display: flex;
 	background-color: #3D37F1;
-	width: 80%;
-	max-width: 263.67px;
-	height: 76.77px;
+	width: 100%;
+	max-width: 260px;
 	border-radius: 38px;
 	margin-top: 130px;
 	padding: 25px;
-	justify-content: space-evenly;
+	justify-content: space-around;
 	align-items: center;
 }
 .button-img {
