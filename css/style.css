@@ -92,10 +92,11 @@ header {
 	margin-top: 270px;
 	height: auto;
 	width: 100%;
-	max-width: 800px;
+	
 }
 .main-img {
 	width: 100%;
+	max-width: 800px;
 }
 /*section 2*/
 .section-2-container {
